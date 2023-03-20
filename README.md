@@ -2,7 +2,7 @@
 
 ## Replicating our results
 
-- Download our pre-extracted feature file from [Google Drive (personal share)](https://drive.google.com/drive/folders/1amRgZDek-lVvJTHmzGTYwyHsOEkFUFcY?usp=sharing).
+- Download our pre-extracted feature file from [Google Drive (personal share, clicking this will immediately reveal the author identity)](https://drive.google.com/drive/folders/1amRgZDek-lVvJTHmzGTYwyHsOEkFUFcY?usp=sharing).
   - The file is split to zip files, so the `partitioned_features` file will need to be decompressed
 - Create a experiment directory for storing log, data and models
 - Run `train_test.sh` in the experiment directory
